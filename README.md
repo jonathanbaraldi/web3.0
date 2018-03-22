@@ -1,2 +1,11 @@
-# web3.0
-Repositório sobre material dos vídeos sobre a Web3.0 ou Internet 3.0
+# Web 3.0 Explicada
+
+
+## Resumo
+
+Este é o fonte para meus vídeos sobre a Web3.0 no Youtube.
+
+
+
+
+
